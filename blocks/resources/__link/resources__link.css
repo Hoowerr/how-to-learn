@@ -2,3 +2,7 @@
   flex: 1;
   height: 38px;
 }
+.resources__link:hover {
+  opacity: 0.4;
+  transition: linear 0.4s;
+}
