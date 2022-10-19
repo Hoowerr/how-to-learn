@@ -65,7 +65,9 @@
   color: #2f80ed;
   text-decoration: none;
 }
-
+.header__link:hover {
+  opacity: .7;
+}
 .header__main-illustration {
   position: absolute;
   width: 765px;
@@ -248,7 +250,9 @@
   text-decoration: none;
   z-index: 2;
 }
-
+.feynman__link:hover {
+  opacity: .7;
+}
 .feynman__photo {
   bottom: 0;
   left: 0;
@@ -512,7 +516,9 @@
   text-decoration: none;
   color: #2f80ed;
 }
-
+.khan__buy-link:hover {
+  opacity: .7;
+}
 .resources {
   margin-top: 100px;
 }
